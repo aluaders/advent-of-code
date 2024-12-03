@@ -1,0 +1,20 @@
+{
+  "name": "advent-of-code",
+  "version": "1.0.0",
+  "description": "Git repo for tracking Advent of Code solutions",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aluaders/advent-of-code.git"
+  },
+  "author": "Anthony Luaders",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aluaders/advent-of-code/issues"
+  },
+  "homepage": "https://github.com/aluaders/advent-of-code#readme"
+}
